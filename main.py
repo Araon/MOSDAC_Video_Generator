@@ -61,6 +61,7 @@ def generate_video(pathIn,pathOut,fps):
     for i in range(len(frame_array)):
         out.write(frame_array[i])
     out.release()
+    print("Video generated: ",pathOut)
 
 def usage():
     
