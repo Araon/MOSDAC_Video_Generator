@@ -1,7 +1,7 @@
 # MOSDAC Video Generator
 ### Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Araon/MOSDAC_Video_Generator/master/demos/INSAT-3D.gif">
+  <img src="https://raw.githubusercontent.com/Araon/MOSDAC_Video_Generator/master/demos/INSAT-3D-2.gif">
 </p>
 
 Timelapse of the two cyclones that hit the Indian peninsula in the Month of May. Made with data from INSAT-3D taken from MOSDAC.
