@@ -13,7 +13,8 @@ This is taken in a span of 30 days with more than 550 individual images
 
 Month = Use abbreviation of the months i.e jan, feb
 ##### Sat_id  
-1: L1B_STD_IR1 
+1: L1B_STD_IR1
+ 
 2: L1C_ASIA_MER_BIMG
 ##### Sameple code
 ```python
